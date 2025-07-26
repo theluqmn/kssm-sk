@@ -12,7 +12,7 @@ public class aktiviti20 {
         double b = 0.8 * 1000;
         System.out.println("(B) 0.8km kepada m: " + b + " m");
 
-        // (D)
+        // (C)
         double c = 1.7 * 1000;
         System.out.println("(C) 1.7kg kepada g: " + c + " g");
 
