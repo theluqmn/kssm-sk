@@ -41,7 +41,7 @@ public class aktiviti19 {
         }
     }
 
-    // subatur cara main, diubahsuai untuk input yang fleksibel
+    // subatur cara main, diubahsuai untuk demonstrasi implementasi
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
