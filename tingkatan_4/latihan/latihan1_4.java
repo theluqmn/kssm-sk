@@ -1,4 +1,4 @@
-// latihan formatif 1.4
+// latihan formatif 1.4 buku teks
 
 package tingkatan_4.latihan;
 import java.util.Scanner;
@@ -32,7 +32,36 @@ public class latihan1_4 {
         }
     }
 
-    public static void main(String[] args) {
-        soalan1();
+    // (2)
+    public static void soalan2() {
+        int n;
+
+        // a
+        for (n = 2; n <= 20; n += 3) {
+            System.out.println(n + " ");
+        }
+
+        // b
+        for (n = 150; n <= 40; n -= 15) {
+            System.out.println(n + " ");
+        }        
+    }
+
+    // (3)
+    public static void soalan3() {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("masukkan nombor permulaan:");
+        int noMula = scanner.nextInt();
+        System.out.println("masukkan nombor penamat:");
+        int noTamat = scanner.nextInt();
+        scanner.close();
+
+        int i;
+        for (i = noMula; i >= noTamat; i += 1) {
+            if (i % 2 == 0) { // jika output adalah 0, maka i boleh dibahagi dengan 2
+                System.out.println(i);
+            }
+        }
     }
 }
