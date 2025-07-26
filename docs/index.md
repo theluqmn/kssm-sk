@@ -1,3 +1,3 @@
-# KSSM Sains Komputer bersama Luqman
+# theluqmn.com/kssm-sk
 
-Laman sesawang ini merupakan projek peribadi [Luqman](https://theluqmn.com) untuk membantu murid-murid yang mengambil mata pelajaran elektif Sains Komputer untuk tingkatan 4 dan 5.
+theluqmn.com/ksmm-sk merupakan laman sesawang yang direka khas untuk membantu murid-murid SMK yang memilih mata pelajaran elektif Sains Komputer bagi tingkatan 4 dan 5. pelbagai bahan, aktiviti, dan penerangan lanjut boleh didapati di laman sesawang ini.
