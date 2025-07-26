@@ -1,6 +1,6 @@
 // buku teks m/s 91
 
-package aktiviti.tingkatan_4;
+package tingkatan_4.aktiviti;
 
 public class aktiviti20 {
     public static void main(String[] args) {

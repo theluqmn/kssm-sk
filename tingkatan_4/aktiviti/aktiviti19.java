@@ -1,6 +1,6 @@
 // buku teks m/s 83
 
-package aktiviti.tingkatan_4;
+package tingkatan_4.aktiviti;
 import java.util.Scanner;
 
 public class aktiviti19 {
