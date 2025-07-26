@@ -51,9 +51,9 @@ public class latihan1_4 {
     public static void soalan3() {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("masukkan nombor permulaan:");
+        System.out.println("Masukkan nombor permulaan:");
         int noMula = scanner.nextInt();
-        System.out.println("masukkan nombor penamat:");
+        System.out.println("Masukkan nombor penamat:");
         int noTamat = scanner.nextInt();
         scanner.close();
 
@@ -62,6 +62,23 @@ public class latihan1_4 {
             if (i % 2 == 0) { // jika output adalah 0, maka i boleh dibahagi dengan 2
                 System.out.println(i);
             }
+        }
+    }
+
+    // (4)
+    public static void soalan4() {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Masukkan nombor integer positif:");
+        int nombor = scanner.nextInt();
+        scanner.close();
+
+        if (nombor >= 1) {
+            do {
+                nombor = nombor * (nombor - 1);
+            } while(nombor != 1);
+        } else {
+            System.out.println("Nombor adalah 0 atau negatif. sila masukkan nombor positif.");
         }
     }
 }
