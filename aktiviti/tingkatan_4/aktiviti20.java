@@ -4,19 +4,19 @@ package aktiviti.tingkatan_4;
 
 public class aktiviti20 {
     public static void main(String[] args) {
-        // (a)
+        // (A)
         float a = 500.0f / 1000;
         System.out.println("(A) 500g kepada kg: " + a + " kg");
 
-        // (b)
+        // (B)
         double b = 0.8 * 1000;
         System.out.println("(B) 0.8km kepada m: " + b + " m");
 
-        // (c)
+        // (D)
         double c = 1.7 * 1000;
         System.out.println("(C) 1.7kg kepada g: " + c + " g");
 
-        // (d)
+        // (D)
         float d = 400.0f / 1000;
         System.out.println("(D) 400m kepada km: " + d + " km");
     }
