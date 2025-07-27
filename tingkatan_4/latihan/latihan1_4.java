@@ -142,4 +142,9 @@ public class latihan1_4 {
 
         System.out.println("tamat\n");
     }
+
+    // (9)
+    public static void soalan9() {
+        
+    }
 }
