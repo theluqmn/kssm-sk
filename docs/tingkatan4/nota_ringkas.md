@@ -67,7 +67,7 @@ Melaksanakan arahan-arahan komputer satu per satu.
 
 Memberikan perisian komputer keupayaan untuk membuat keputusan berasaskan syarat yang telah ditentukan pengatur cara.
 
-![gambar rajah](https://theluqmn.com/kssm-sk/_assets/nota_ringkas_t4_1.png)
+![gambar rajah](https://theluqmn.com/kssm-sk/assets/nota_ringkas_t4_1.png)
 
 #### Struktur Kawalan Pengulangan
 
