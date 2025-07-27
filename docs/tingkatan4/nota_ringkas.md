@@ -62,3 +62,26 @@ Komputer ialah alat elektronik yang berupaya menerima dan memproses data input u
 1. Struktur Kawalan Urutan: melaksanakan arahan-arahan komputer satu per satu
 2. Struktur Kawalan Pilihan: memberikan perisian komputer keupayaan untuk membuat keputusan berasaskan syarat yang telah ditentukan pengatur cara.
 3. Struktur Kawalan Pengulangan: mengulang arahan-arahan komputer dalam blok, ia boleh berlangsung sehingga menerima syarat berhenti ataupun mencapai bilangan yang sudah ditetapkan.
+
+### 1.2.3 Menguji dan Membaiki Ralat dalam Algoritma
+
+Algoritma diuji setelah ditulis untuk tujuan pembaikan. Pengujian algoritma dibuat sebelum algoritma ditulis sebagai kod komputer.
+
+Tulis algoritma -> Uji algoritma -> Pembetulan -> Pengaturcaraan
+
+Algoritma yang telah diuji mempunyai ciri-ciri yang berikut:
+
+1. Mudah difahami
+2. Lengkap
+3. Efisien
+4. Memenuhi kriteria reka bentuk
+
+#### Ralat dalam Algoritma
+
+Algoritma yang tidak memenuhi kriteria yang disebutkan tadi, akan mengakibatkan perisian yang dihasilkan mengandungi ralat. Hal ini kerana pengatur cara bergantung kepada algoritma untuk menghasilkan atur cara.
+
+Jenis-jenis ralat:
+
+1. Ralat sintaks
+2. Ralat logik
+3. Ralat masa larian
