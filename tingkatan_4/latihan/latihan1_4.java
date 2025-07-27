@@ -130,4 +130,16 @@ public class latihan1_4 {
             System.out.println("Capaian tidak diterima");
         }
     }
+
+    // (8)
+    public static void soalan8() {
+        int i = 0;
+        int p;
+        while (i >= 9) {
+            p = i + 1;
+            System.out.println(i + " - " + p);
+        }
+
+        System.out.println("tamat\n");
+    }
 }
