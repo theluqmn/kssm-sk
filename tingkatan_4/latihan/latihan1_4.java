@@ -81,4 +81,18 @@ public class latihan1_4 {
             System.out.println("Nombor adalah 0 atau negatif. sila masukkan nombor positif.");
         }
     }
+
+    // (5)
+    public static void soalan5() {
+        int counter;
+        for(counter = 9; counter <= 72; counter += 9) {
+            System.out.println(counter);
+        }
+    }
+
+    // (6) hanya soalan C yang menggunakan atur cara Java
+    public static void soalan6() {
+        // c
+        
+    }
 }
