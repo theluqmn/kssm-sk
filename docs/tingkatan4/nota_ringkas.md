@@ -1,5 +1,7 @@
 # Nota Ringkas KSSM Sains Komputer (Tingkatan 4)
 
+Nota berikut merupakan ringkasan buku teks untuk kegunaan mengulang kaji sahaja.
+
 ## 1.1 Strategi Penyelesaian Masalah
 
 **Masalah**: keraguan, situasi, cabaran dan peluang yang dihadapi dalam kehidupan seseorang.
@@ -48,3 +50,15 @@ Ciri-ciri algoritma:
 1. Butiran jelas
 2. Boleh dilaksanakan
 3. Mempunyai batasan
+
+### 1.2.1 Penggunaan Algoritma untuk Menyelesaikan Masalah
+
+Komputer ialah alat elektronik yang berupaya menerima dan memproses data input untuk menghasilkan maklumat sebagai output serta menyimpan kedua-dua data dan maklumat.
+
+**Input, Proses, Output**: input dari pengguna, diproses dan dipaparkan sebagai output.
+
+### 1.2.2 Struktur Kawalan dalam Pengaturcaraan
+
+1. Struktur Kawalan Urutan: melaksanakan arahan-arahan komputer satu per satu
+2. Struktur Kawalan Pilihan: memberikan perisian komputer keupayaan untuk membuat keputusan berasaskan syarat yang telah ditentukan pengatur cara.
+3. Struktur Kawalan Pengulangan: mengulang arahan-arahan komputer dalam blok, ia boleh berlangsung sehingga menerima syarat berhenti ataupun mencapai bilangan yang sudah ditetapkan.
