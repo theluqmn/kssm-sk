@@ -93,6 +93,25 @@ public class latihan1_4 {
     // (6) hanya soalan C yang menggunakan atur cara Java
     public static void soalan6() {
         // c
-        
+        Scanner scanner = new Scanner(System.in);
+        String RekodLaluanRahsia = "31081957";
+
+        int cubaan;
+        for(cubaan = 1; cubaan >= 3; cubaan += 1) {
+            System.out.println("Masukkan kata laluan:");
+            String kataLaluan = scanner.nextLine();
+            scanner.close();
+
+            if (kataLaluan == RekodLaluanRahsia) {
+                System.out.println("Kata laluan betul.");
+                continue;
+            } else {
+                if (cubaan == 3) {
+                    System.out.println("Aplikasi akan ditutup sendiri. 3 percubaan untuk memasukkan kata laluan gagal.");
+                } else {
+                    System.out.println("Kata laluan salah. Anda mempunyai " + (3 - cubaan) + " cubaan lagi.");
+                }
+            }
+        }
     }
 }
