@@ -67,6 +67,8 @@ Melaksanakan arahan-arahan komputer satu per satu.
 
 Memberikan perisian komputer keupayaan untuk membuat keputusan berasaskan syarat yang telah ditentukan pengatur cara.
 
+![gambar rajah](../_assets/nota_ringkas_t4/struktur-kawalan-pilihan.png)
+
 #### Struktur Kawalan Pengulangan
 
 Mengulang arahan-arahan komputer dalam blok, ia boleh berlangsung sehingga menerima syarat berhenti ataupun mencapai bilangan yang sudah ditetapkan.
