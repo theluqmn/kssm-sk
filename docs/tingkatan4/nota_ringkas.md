@@ -63,15 +63,19 @@ Komputer ialah alat elektronik yang berupaya menerima dan memproses data input u
 
 Melaksanakan arahan-arahan komputer satu per satu.
 
+![gambar rajah](https://theluqmn.com/kssm-sk/assets/nota_ringkas_t4_1.png)
+
 #### Struktur Kawalan Pilihan
 
 Memberikan perisian komputer keupayaan untuk membuat keputusan berasaskan syarat yang telah ditentukan pengatur cara.
 
-![gambar rajah](https://theluqmn.com/kssm-sk/assets/nota_ringkas_t4_1.png)
+![gambar rajah](https://theluqmn.com/kssm-sk/assets/nota_ringkas_t4_2.png)
 
 #### Struktur Kawalan Pengulangan
 
 Mengulang arahan-arahan komputer dalam blok, ia boleh berlangsung sehingga menerima syarat berhenti ataupun mencapai bilangan yang sudah ditetapkan.
+
+![gambar rajah](https://theluqmn.com/kssm-sk/assets/nota_ringkas_t4_3.png)
 
 ### 1.2.3 Menguji dan Membaiki Ralat dalam Algoritma
 
@@ -95,6 +99,8 @@ Jenis-jenis ralat:
 1. **Ralat sintaks**: tidak wujud dalam algoritma, berlaku kerana menggunakan bahasa pengaturcaraan secara cuai.
 2. **Ralat logik**: berlaku kerana perisian yang dihasilkan tidak menjalankan fungsi-fungsi yang sepatutnya.
 3. **Ralat masa larian**: timbul apabila atur cara dijalankan.
+
+### 1.2.4
 
 ---
 
