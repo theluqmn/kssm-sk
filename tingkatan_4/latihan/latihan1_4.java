@@ -114,4 +114,20 @@ public class latihan1_4 {
             }
         }
     }
+
+    // (7)
+    public static void soalan7() {
+        String jawatan = "";
+        if (jawatan == "KERANI") {
+            System.out.println("Capaian data sahaja");
+        } else if (jawatan == "JURUTEKNIK") {
+            System.out.println("Capaian sistem sahaja");
+        } else if (jawatan == "PENTADBIR") {
+            System.out.println("Capaian sistem dan data");
+        } else if (jawatan == "PENGURUS") {
+            System.out.println("Capaian keseluruhan");
+        } else {
+            System.out.println("Capaian tidak diterima");
+        }
+    }
 }
