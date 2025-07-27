@@ -1,6 +1,6 @@
 # Nota Ringkas KSSM Sains Komputer (Tingkatan 4)
 
-Nota berikut merupakan ringkasan buku teks untuk kegunaan mengulang kaji sahaja.
+Nota berikut merupakan ringkasan buku teks untuk kegunaan mengulang kaji sahaja. Nota ringkas ini ditulis oleh [Luqman](https://theluqmn.com).
 
 ## 1.1 Strategi Penyelesaian Masalah
 
@@ -59,9 +59,17 @@ Komputer ialah alat elektronik yang berupaya menerima dan memproses data input u
 
 ### 1.2.2 Struktur Kawalan dalam Pengaturcaraan
 
-1. Struktur Kawalan Urutan: melaksanakan arahan-arahan komputer satu per satu
-2. Struktur Kawalan Pilihan: memberikan perisian komputer keupayaan untuk membuat keputusan berasaskan syarat yang telah ditentukan pengatur cara.
-3. Struktur Kawalan Pengulangan: mengulang arahan-arahan komputer dalam blok, ia boleh berlangsung sehingga menerima syarat berhenti ataupun mencapai bilangan yang sudah ditetapkan.
+#### Struktur Kawalan Urutan
+
+Melaksanakan arahan-arahan komputer satu per satu.
+
+#### Struktur Kawalan Pilihan
+
+Memberikan perisian komputer keupayaan untuk membuat keputusan berasaskan syarat yang telah ditentukan pengatur cara.
+
+#### Struktur Kawalan Pengulangan
+
+Mengulang arahan-arahan komputer dalam blok, ia boleh berlangsung sehingga menerima syarat berhenti ataupun mencapai bilangan yang sudah ditetapkan.
 
 ### 1.2.3 Menguji dan Membaiki Ralat dalam Algoritma
 
@@ -82,6 +90,10 @@ Algoritma yang tidak memenuhi kriteria yang disebutkan tadi, akan mengakibatkan 
 
 Jenis-jenis ralat:
 
-1. Ralat sintaks
-2. Ralat logik
-3. Ralat masa larian
+1. **Ralat sintaks**: tidak wujud dalam algoritma, berlaku kerana menggunakan bahasa pengaturcaraan secara cuai.
+2. **Ralat logik**: berlaku kerana perisian yang dihasilkan tidak menjalankan fungsi-fungsi yang sepatutnya.
+3. **Ralat masa larian**: timbul apabila atur cara dijalankan.
+
+---
+
+Nota ringkas ini ditulis oleh [luqman](https://theluqmn.com), dan disemak semula pada 27 July 2025.
