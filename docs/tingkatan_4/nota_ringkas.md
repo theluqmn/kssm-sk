@@ -115,6 +115,19 @@ Jenis-jenis ralat:
 |String|Bermula dari 0 hingga tiada had|>10 bait|
 |Boolean|Benar (true), Palsu (false)|1 bit|
 
+### 1.3.3 Perbezaan Pemboleh Ubah Sejagat dan Setempat
+
+Rujuk [aktiviti 15](https://github.com/theluqmn/kssm-sk/blob/main/tingkatan_4/aktiviti/aktiviti_15.java).
+
+#### Pemboleh ubah sejagat (global)
+
+- berfungsi dalam atur cara sahaja
+
+#### Pemboleh ubah setempat (local)
+
+- hanya berfungsi dalam subatur cara yang diisytiharkan.
+- digunakan dalam fungsi
+
 ---
 
 Nota ringkas ini ditulis oleh [luqman](https://theluqmn.com), dan disemak semula pada 27 July 2025.
