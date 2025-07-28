@@ -4,7 +4,7 @@ theluqmn.com/ksmm-sk merupakan laman sesawang yang direka khas untuk membantu mu
 
 ## Tingkatan 4
 
-- [Nota ringkas](https://theluqmn.com/kssm-sk/tingkatan4/nota_ringkas)
-- [Koleksi aktiviti buku teks](https://github.com/theluqmn/kssm-sk/tree/main/tingkatan_4/aktiviti)
-- [Koleksi latihan formatif](https://github.com/theluqmn/kssm-sk/tree/main/tingkatan_4/latihan)
-- [Koleksi "uji minda"](https://github.com/theluqmn/kssm-sk/tree/main/tingkatan_4/uji_minda)
+- [**Nota ringkas**](https://theluqmn.com/kssm-sk/tingkatan4/nota_ringkas)
+- [Koleksi aktiviti buku teks](https://github.com/theluqmn/kssm-sk/tree/main/tingkatan_4/aktiviti) - aktiviti-aktiviti yang menggunakan pengaturcaraan sahaja.
+- [Koleksi latihan formatif](https://github.com/theluqmn/kssm-sk/tree/main/tingkatan_4/latihan) - latihan yang menggunakan pengaturcaraan sahaja.
+- [Koleksi "uji minda"](https://github.com/theluqmn/kssm-sk/tree/main/tingkatan_4/uji_minda) - mengikut nombor muka surat.
