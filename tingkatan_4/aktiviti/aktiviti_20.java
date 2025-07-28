@@ -2,7 +2,7 @@
 
 package tingkatan_4.aktiviti;
 
-public class aktiviti20 {
+public class aktiviti_20 {
     public static void main(String[] args) {
         // (A)
         float a = 500.0f / 1000;

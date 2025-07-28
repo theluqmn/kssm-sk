@@ -3,7 +3,7 @@
 package tingkatan_4.aktiviti;
 import java.util.Scanner;
 
-public class aktiviti19 {
+public class aktiviti_19 {
     // subatur untuk struktur kawalan switch case untuk gred, penggunaan struktur kawalan if/else masih lagi diperlukan
     public static String dapatkanGred(int markah) {
         int gredKategori = markah / 10; // dibahagikan supaya boleh digunakan dengan struktur kawalan switch case

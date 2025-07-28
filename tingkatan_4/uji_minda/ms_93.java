@@ -1,8 +1,6 @@
 // buku teks m/s 93
 
-package tingkatan_4.uji_minda;
-
-public class ms93 {
+public class ms_93 {
     // (A)
     public static void soalanA() {
         int jumlah = 0;

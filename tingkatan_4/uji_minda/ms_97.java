@@ -1,9 +1,8 @@
 // buku teks m/s 97
 
-package tingkatan_4.uji_minda;
 import java.util.Scanner;
 
-public class ms97 {
+public class ms_97 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("masukkan nombor yang kurang dari -10:");
