@@ -100,7 +100,20 @@ Jenis-jenis ralat:
 2. **Ralat logik**: berlaku kerana perisian yang dihasilkan tidak menjalankan fungsi-fungsi yang sepatutnya.
 3. **Ralat masa larian**: timbul apabila atur cara dijalankan.
 
-### 1.2.4
+## 1.3 Pemboleh Ubah, Pemalar dan Jenis Data
+
+1. **Pemboleh ubah**: ruang simpanan sementara, yang sentiasa berubah semasa berlakunya pemprosesan.
+2. **Pemalar**: nilai pemalar adalah tetap dan tidak akan berubah.
+3. **Jenis data**:
+
+|Jenis data|Contoh nilai|Kapasiti ingatan komputer|
+|---|---|---|
+|Integer|Minimum -2147483648, Maksimum 2147483648|4 bait|
+|float|Minimum -3.4e38, Maksimum 3.4e38|4 bait|
+|double|Minimum -1.7e308, Maksimum 1.7e308|8 bait|
+|char|Satu karakter sahaja|2 bait|
+|String|Bermula dari 0 hingga tiada had|>10 bait|
+|Boolean|Benar (true), Palsu (false)|1 bit|
 
 ---
 
