@@ -136,8 +136,8 @@ Rujuk [aktiviti 15](https://github.com/theluqmn/kssm-sk/blob/main/tingkatan_4/ak
 
 ### 1.3.5 Penggunaan Penyataan
 
-**Pernyataan Umpukan**: terdiri daripada satu atau lebih ungkapan yang lain. Pernyataan umpukan akan memberikan nilai kepada pemboleh ubah.
-**Pernyataan aritmetik**: terdiri daripada satu atau lebih operasi aritmetik. Pernyataan ini merujuk operasi aritmetik, dan membacanya dary kiri ke kanan sahaja. Penggunaan simbol kurungan perlu diutamakan.
+- **Pernyataan Umpukan**: terdiri daripada satu atau lebih ungkapan yang lain. Pernyataan umpukan akan memberikan nilai kepada pemboleh ubah.
+- **Pernyataan aritmetik**: terdiri daripada satu atau lebih operasi aritmetik. Pernyataan ini merujuk operasi aritmetik, dan membacanya dary kiri ke kanan sahaja. Penggunaan simbol kurungan perlu diutamakan.
 
 ---
 
