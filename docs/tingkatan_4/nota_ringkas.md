@@ -128,6 +128,14 @@ Rujuk [aktiviti 15](https://github.com/theluqmn/kssm-sk/blob/main/tingkatan_4/ak
 - hanya berfungsi dalam subatur cara yang diisytiharkan.
 - digunakan dalam fungsi
 
+### 1.3.4 Pengisytiharan, Permulaan dan Penetapan Nilai pada Pemboleh Ubah dan Pemalar
+
+- Pengisytiharan Nilai Pemboleh Ubah: dikenal sebagai tempat untuk menyimpan data. Ia perlu diisytiharkan semua pemboleh ubah sebelum boleh digunakan.
+- Permulaan dan Penetapan Nilai untik Pemboleh Ubah: nilai kepada pemboleh ubah boleh ditetapkan atau diumpukkan.
+- Pengisytiharan dan Penetapan Nilai Pemalar:
+
+#### 1.3.5 Penggunaan Penyataan
+
 ---
 
 Nota ringkas ini ditulis oleh [luqman](https://theluqmn.com), dan disemak semula pada 27 July 2025.
